@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+th{
+	width : 10%;
+}
+
+#gameExplain {
+	margin : 0 auto;
+}
+
+img {
+	width : 1200px;
+}
+
+#explainTitle{
+	width : 1200px;
+	height : 50px;
+	color : white;
+}
+
+.star-rating {
+	width:223px;
+}
+.star-rating, .star-rating span {
+	display:inline-block;
+	height:40px;
+	overflow:hidden; 
+	background:url(/resources/img/star80.png)no-repeat; 
+}
+.star-rating span{
+	background-position:left bottom; 
+	line-height:0; 
+	vertical-align:top; 
+}

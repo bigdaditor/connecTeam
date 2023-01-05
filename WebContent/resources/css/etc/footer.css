@@ -1,0 +1,16 @@
+footer{
+    width: 100%;
+    background-color: #001028;
+    color: #d9e1e8;
+    padding: 20px;
+}
+
+#footer_content > a{
+    text-decoration: none;
+    color: #f2e9e1;
+    border-right : 1px solid #f2e9e1;
+}
+
+a{
+	color : #d9e1e8;
+}

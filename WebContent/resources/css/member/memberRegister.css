@@ -1,0 +1,8 @@
+@charset "UTF-8";
+table {
+  border-collapse: separate;
+  border-spacing: 30px 20px;
+  margin : 0 auto;
+  font-weight : bold;
+}
+

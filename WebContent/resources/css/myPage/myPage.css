@@ -1,0 +1,9 @@
+@charset "UTF-8";
+td {
+	padding: 30px;
+}
+
+td > a > img {
+	width: 250px;
+	height: 300px;
+}

@@ -1,0 +1,43 @@
+.star-rating {
+	width:223px;
+}
+.star-rating, .star-rating span {
+	display:inline-block;
+	height:40px;
+	overflow:hidden; 
+	background:url(/resources/img/star80.png)no-repeat; 
+}
+.star-rating span{
+	background-position:left bottom; 
+	line-height:0; 
+	vertical-align:top; 
+}
+.star-rating50 {
+	width:139px;
+}
+.star-rating50, .star-rating50 span {
+	display:inline-block;
+	height:25px;
+	overflow:hidden; 
+	background:url(/resources/img/star50.png)no-repeat; 
+}
+.star-rating50 span{
+	background-position:left bottom; 
+	line-height:0; 
+	vertical-align:top; 
+}
+
+.star-rating30 {
+	width:83px;
+}
+.star-rating30, .star-rating30 span {
+	display:inline-block;
+	height:15px;
+	overflow:hidden; 
+	background:url(/resources/img/star30.png)no-repeat; 
+}
+.star-rating30 span{
+	background-position:left bottom; 
+	line-height:0; 
+	vertical-align:top; 
+}
